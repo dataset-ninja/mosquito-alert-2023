@@ -6,4 +6,4 @@ The dataset comprises 10,700 real-world images of mosquitoes captured by citizen
 
 ## **Ground Truth**
 
-Accurate annotations are provided by expert entomologists. It's noted that while most images contain a single mosquito with its corresponding bounding box and class label, rare cases may depict multiple mosquitoes. For consistency, only one bounding box and class label are assigned per image, even if multiple mosquitoes are visible.
+Accurate annotations are provided by expert entomologists. It's noted that while most images contain a single mosquito with its corresponding bounding box and class label, rare cases may depict multiple mosquitoes. **For consistency, only one bounding box and class label are assigned per image, even if multiple mosquitoes are visible.**
